@@ -1,0 +1,44 @@
+body{
+  font-family: "DM Sans";
+  margin-left: 25px;
+}
+
+ul{
+  position: sticky;
+  z-index: 100;
+  top: 0;
+  font-size: 25px;
+  background-image: url("https://i.postimg.cc/RC3XYgFL/image-(4)-(1).png");
+  height: 70px;
+  width: 97%;
+}
+
+#logo{
+  height: 55px;
+  margin-top: 7px;
+}
+
+#article{
+  margin-left: 25px;
+}
+
+h1{
+  font-size: 50px;
+}
+
+#articlemainimg{
+  width: 700px;
+  border: 15px groove blue;
+  border-radius: 20px;
+}
+
+p{
+  font-family: "Iosevka Charon";
+  font-size: 25px;
+}
+
+.articleimg{
+  width: 30%;
+  height: 300px;
+  margin-right: 47px;
+}
